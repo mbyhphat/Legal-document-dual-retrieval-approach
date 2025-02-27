@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+tqdm
+sentence-transformers
+underthesea
+notebook
+ipykernel
+pickle
