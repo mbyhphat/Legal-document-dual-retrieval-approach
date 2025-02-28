@@ -13,7 +13,6 @@ Legal documents often contain lengthy contexts that exceed the processing capaci
 ## **Pipeline**
 <a align="center">
     <img src="assets/pipeline.png" align="center">
-## **Installation**
 
 ## **Summary of results**
 
